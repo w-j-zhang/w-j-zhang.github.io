@@ -20,7 +20,7 @@ Email: zhang_wen_jie AT pku DOT edu DOT cn
 
 <h3>Publications</h3>
 
-- Yakun Zhang, Wenjie Zhang, Dezhi Ran, Qihao Zhu, Chengfeng Dou, Dan Hao, Tao Xie, Lu Zhang, Learning-based Widget Matching for Migrating GUI Test Cases, To Appear in ICSE (CCF-A), 2024.
+- Yakun Zhang, **Wenjie Zhang**, Dezhi Ran, Qihao Zhu, Chengfeng Dou, Dan Hao, Tao Xie, Lu Zhang, Learning-based Widget Matching for Migrating GUI Test Cases, To Appear in ICSE (CCF-A), 2024.
 - **Wenjie Zhang**, Guancheng Wang, Junjie Chen, Yingfei Xiong, Yong Liu, Lu Zhang, OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability, ASE (CCF-A), 2023, [Link](https://arxiv.org/abs/2309.06771).
 - Qihao Zhu, Zeyu Sun, **Wenjie Zhang**, Yingfei Xiong, Lu Zhang, Tare: Type-Aware Neural Program Repair, ICSE (CCF-A), 2023, [Link](https://xiongyingfei.github.io/papers/ICSE23a.pdf).
 - Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Wenjie Zhang**, Lian Yu, Yingfei Xiong, Lu Zhang, Lyra: A Benchmark for Turducken-Style Code Generation, IJCAI-ECAI (CCF-A), 2022, [Link](https://arxiv.org/abs/2108.12144).
