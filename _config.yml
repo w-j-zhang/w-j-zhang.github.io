@@ -1,0 +1,25 @@
+
+title: Wenjie Zhang | 张文杰
+email: zhang_wen_jie@pku.edu.cn
+description: ""
+baseurl: ""
+url: ""
+github_username:  myxxxsquared
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+exclude:
+  - .history/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
