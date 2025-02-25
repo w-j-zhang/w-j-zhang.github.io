@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Wenjie Zhang (张文杰) is a postdoc (Research Fellow) in National University in Singapore advised by Prof. Yun Lin and Prof. Jinsong Dong. He was a Ph.D. student advised by Prof.  [Lu Zhang]() and Prof. [Yingfei Xiong](https://xiongyingfei.github.io/) in [Institute of Software](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/).
+Wenjie Zhang (张文杰) is currently a postdoc (Research Fellow) in [National University in Singapore](https://www.comp.nus.edu.sg/) advised by Prof. [Yun Lin](http://linyun.info/) and Prof. [Jinsong Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Wenjie Zhang was a Ph.D. student advised by Prof. [Lu Zhang]() and Prof. [Yingfei Xiong](https://xiongyingfei.github.io/) in [Institute of Software](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/) and graduated in July 2024.
 
 <img src="photo.jpeg" width="200">
 
@@ -35,6 +35,7 @@ Email: wjzhang AT nus DOT edu DOT sg
 <h3>Academic Services</h3>
 
 External Reviewer
+
 - 2021: ICML, FSE
 - 2020: ICSE, Journal of Software, AAAI
 - 2019: ICSE, ASE, ISSTA, NeurIPS
