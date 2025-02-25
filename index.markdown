@@ -2,19 +2,19 @@
 layout: home
 ---
 
-Wenjie Zhang (张文杰) is a Ph.D. student advised by Prof.  [Lu Zhang]() and Prof. [Yingfei Xiong](https://xiongyingfei.github.io/) in [Institute of Software](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/).
+Wenjie Zhang (张文杰) is a postdoc (Research Fellow) in National University in Singapore advised by Prof. Yun Lin and Prof. Jinsong Dong. He was a Ph.D. student advised by Prof.  [Lu Zhang]() and Prof. [Yingfei Xiong](https://xiongyingfei.github.io/) in [Institute of Software](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/).
 
 <img src="photo.jpeg" width="200">
 
-Office: Room 1537, Science Building 1, Peking University, Beijing, China, 100871
+Office: Security Lab, Room 2-18, COM3, School of Computing, National University of Singapore, Singapore, 117417
 
-Email: zhang_wen_jie AT pku DOT edu DOT cn
+Email: wjzhang AT nus DOT edu DOT sg
 
 <h3>Research Interests</h3>
 
 - Constraint Solving
 - Compilation Error Fixing
-- Neural Network
+- Web Security
 - Code Generation
 - Code Representation
 
