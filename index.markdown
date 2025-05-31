@@ -4,7 +4,7 @@ layout: home
 
 Wenjie Zhang (张文杰) is currently a postdoc (Research Fellow) in [National University in Singapore](https://www.comp.nus.edu.sg/) advised by Prof. [Yun Lin](http://linyun.info/) and Prof. [Jinsong Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/). Wenjie Zhang was a Ph.D. student advised by Prof. [Lu Zhang]() and Prof. [Yingfei Xiong](https://xiongyingfei.github.io/) in [Institute of Software](https://www.sei.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/) and graduated in July 2024.
 
-<img src="photo.jpeg" width="200">
+<div style="text-align: center;"><img src="photo.jpeg" width="200"></div>
 
 Office: Security Lab, Room 2-18, COM3, School of Computing, National University of Singapore, Singapore, 117417
 
