@@ -12,15 +12,17 @@ Email: wjzhang AT nus DOT edu DOT sg
 
 <h3>Research Interests</h3>
 
+- Web Security
+- Web Constraints Learning
 - Constraint Solving
 - Compilation Error Fixing
-- Web Security
 - Code Generation
 - Code Representation
 
 <h3>Publications</h3>
 
-- Yakun Zhang, **Wenjie Zhang**, Dezhi Ran, Qihao Zhu, Chengfeng Dou, Dan Hao, Tao Xie, Lu Zhang, Learning-based Widget Matching for Migrating GUI Test Cases, To Appear in ICSE (CCF-A), 2024.
+- **Wenjie Zhang**, Yun Lin, Chun Fung Amos Kwok, Xiwen Teoh, Xiaofei Xie, Frank Liauw, Hongyu Zhang, Jin Song Dong, MINES: Explainable Anomaly Detection through Web API Invariant Inference, ICSE (CCF-A), 2026, [Link](https://www.arxiv.org/abs/2512.06906).
+- Yakun Zhang, **Wenjie Zhang**, Dezhi Ran, Qihao Zhu, Chengfeng Dou, Dan Hao, Tao Xie, Lu Zhang, Learning-based Widget Matching for Migrating GUI Test Cases, ICSE (CCF-A), 2024, [Link](https://dl.acm.org/doi/10.1145/3597503.3623322).
 - **Wenjie Zhang**, Guancheng Wang, Junjie Chen, Yingfei Xiong, Yong Liu, Lu Zhang, OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability, ASE (CCF-A), 2023, [Link](https://arxiv.org/abs/2309.06771).
 - Qihao Zhu, Zeyu Sun, **Wenjie Zhang**, Yingfei Xiong, Lu Zhang, Tare: Type-Aware Neural Program Repair, ICSE (CCF-A), 2023, [Link](https://xiongyingfei.github.io/papers/ICSE23a.pdf).
 - Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Wenjie Zhang**, Lian Yu, Yingfei Xiong, Lu Zhang, Lyra: A Benchmark for Turducken-Style Code Generation, IJCAI-ECAI (CCF-A), 2022, [Link](https://arxiv.org/abs/2108.12144).
@@ -34,17 +36,9 @@ Email: wjzhang AT nus DOT edu DOT sg
 
 <h3>Academic Services</h3>
 
-External Reviewer
+Reviewer for Journals
 
-- 2021: ICML, FSE
-- 2020: ICSE, Journal of Software, AAAI
-- 2019: ICSE, ASE, ISSTA, NeurIPS
-
-<h3>Teaching & Invited Talks</h3>
-
-- 2019, Spring, Teaching Assistant of "Compiler Design" @ PKU, Beijing, China
-- 2020, Spring, Teaching Assistant of "Compiler Design" @ PKU, Beijing, China
-- 2021, Spring, Teaching Assistant of "Compiler Design" @ PKU, Beijing, China
+- TSE, TOSEM
 
 <h3>Honors & Awards</h3>
 
@@ -52,5 +46,8 @@ External Reviewer
 - 2022, Excellent Research Award, Peking University
 
 <h3>Education</h3>
-- 2019 - Now, Ph.D. Student, Computer Science, [Peking University](https://english.pku.edu.cn/)
+- 2019 - 2024, Ph.D. Student, Computer Science, [Peking University](https://english.pku.edu.cn/)
 - 2015 - 2019, Bachelor, Physics, [Peking University](https://english.pku.edu.cn/)
+
+<h3>Working Experience</h3>
+- 2024 - Now, Postdoctoral Research Fellow, [National University of Singapore](https://www.comp.nus.edu.sg/)
